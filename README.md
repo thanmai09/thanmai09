@@ -4,8 +4,8 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on ** Promptify - It is a web application where users can discover, share, and perform CRUD operations and test AI prompts all in one place. It helps people find the right prompts to get better responses from AI tools like ChatGPT.**
-- 🌱 I’m currently learning **MERN STACK **
+- 🔭 I’m currently working on **Promptify** - It is a web application where users can discover, share, and perform CRUD operations and test AI prompts all in one place. It helps people find the right prompts to get better responses from AI tools like ChatGPT.
+- 🌱 I’m currently learning **MERN STACK 
 - 🤝 I’m looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **Python, Web Development, or UI/UX**
 - 📫 How to reach me: **thanmaisreemacharla@gmail.com**
@@ -29,5 +29,5 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanmai-sree-macharla-0a3191353)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/thanmai09)
