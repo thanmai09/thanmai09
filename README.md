@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Thanmai Sree</h1>
+<h1 align="center">Hi there 👋, 
+  I'm Thanmai Sree</h1>
 <h3 align="center">A passionate developer & learner from India 🇮🇳</h3>
 
 ---
@@ -9,7 +10,7 @@
 - 🤝 I’m looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **Python, Web Development, or Data Analysis**
 - 📫 How to reach me: **thanmaisreemacharla@gmail.com**
-- ⚡ Fun fact: *I love turning ideas into reality through code!*
+
 
 ---
 
