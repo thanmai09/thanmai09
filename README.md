@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, 
-  I'm Thanmai Sree</h1>
+   I'm Thanmai Sree</h1>
 <h3 align="center">A passionate developer & learner from India 🇮🇳</h3>
 
 ---
@@ -17,8 +17,8 @@
 ### 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frameworks:** Flask, React  
-- **Databases:** MySQL, Firebase  
-- **Tools:** Git, VS Code, Postman  
+- **Databases:** MySQL
+- **Tools:** Git, VS Code 
 
 ---
 
