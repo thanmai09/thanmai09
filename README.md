@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Thanmai Sree</h1>
+<h1 align="center">Hi there 👋,
+  I'm Thanmai Sree</h1>
 <h3 align="center">A passionate developer & learner from India 🇮🇳</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on ** Promptify - It is a web application where users can discover, share, and perform CRUD operations and test AI prompts all in one place. It helps people find the right prompts to get better responses from AI tools like ChatGPT.**
-- 🌱 I’m currently learning **MERN STACK **
+- 🔭 I’m currently working on ** Promptify - It is a web application where users can discover, share, and perform CRUD operations and test AI prompts all in one place. It helps people find the right prompts to get better responses from AI tools like ChatGPT.
+- 🌱 I’m currently learning **MERN STACK**
 - 🤝 I’m looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **Python, Web Development, or UI/UX**
 - 📫 How to reach me: **thanmaisreemacharla@gmail.com**
-- ⚡ Fun fact: *I love turning ideas into reality through code!*
 
 ---
 
