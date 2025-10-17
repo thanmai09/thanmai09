@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Thanmai Sree</h1>
+<h3 align="center">A passionate developer & learner from India 🇮🇳</h3>
 
-<!--
-**thanmai09/thanmai09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🔭 I’m currently working on ** Promptify - It is a web application where users can discover, share, and perform CRUD operations and test AI prompts all in one place. It helps people find the right prompts to get better responses from AI tools like ChatGPT.**
+- 🌱 I’m currently learning **MERN STACK **
+- 🤝 I’m looking to collaborate on **Full Stack Projects**
+- 💬 Ask me about **Python, Web Development, or UI/UX**
+- 📫 How to reach me: **thanmaisreemacharla@gmail.com**
+- ⚡ Fun fact: *I love turning ideas into reality through code!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks:** Flask, React  
+- **Databases:** MySQL, Firebase  
+- **Tools:** Git, VS Code, Postman  
+
+---
+
+### 📊 GitHub Stats
+![Thanmai’s GitHub stats](https://github-readme-stats.vercel.app/api?username=thanmai09&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai09&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/thanmai09)
