@@ -41,7 +41,7 @@ I believe in **learning by building**, not just tutorials.
 - Git & GitHub  
 - VS Code  
 - Anaconda  
-- Postman  
+- Google Colab
 
 ---
 
