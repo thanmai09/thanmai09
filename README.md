@@ -54,12 +54,6 @@ I believe in **learning by building**, not just tutorials.
 
 ---
 
-## 📊 GitHub Insights
-
-![Followers](https://img.shields.io/github/followers/thanmai09?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/thanmai09?style=for-the-badge)
-![Repos](https://img.shields.io/github/repo-size/thanmai09?style=for-the-badge)
-
 
 ---
 
