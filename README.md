@@ -1,34 +1,85 @@
-<h1 align="center">Hi there 👋, 
-   I'm Thanmai Sree</h1>
-<h3 align="center">A passionate developer & learner from India 🇮🇳</h3>
+<h1 align="center">Hey 👋, I'm Thanmai Sree Macharla</h1>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | Tech Enthusiast from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Learning+by+Doing;Full+Stack+%7C+Backend+%7C+Databases;Turning+Ideas+into+Code" alt="Typing SVG" />
+</p>
 
 ---
 
-### 👩‍💻 About Me
-- 🔭 I’m currently working on **Full stack projects** 
-- 🌱 I’m currently learning MERN STACK
-- 🤝 I’m looking to collaborate on **Full Stack Projects**
-- 💬 Ask me about **Python, Web Development, or Data Analysis**
-- 📫 How to reach me: **thanmaisreemacharla@gmail.com**
+## 🚀 About Me
 
+I'm a **driven and curious developer** who loves building **real-world, problem-solving applications**.  
+I believe in **learning by building**, not just tutorials.
 
----
-
-### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks:** Flask, React  
-- **Databases:** MySQL
-- **Tools:** Git, VS Code 
+- 💻 Focused on **Full-Stack Development**
+- 🧠 Strong foundation in **Python & Backend logic**
+- 🌱 Currently mastering the **MERN Stack**
+- 🏗️ Enjoy building **production-style projects**
+- 🤝 Open to **collaborations, hackathons & internships**
+- 📬 Reach me at: **thanmaisreemacharla@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
-![Thanmai’s GitHub stats](https://github-readme-stats.vercel.app/api?username=thanmai09&show_icons=true&theme=tokyonight)
+## 🛠️ Tech Arsenal
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai09&layout=compact&theme=tokyonight)
+### 👩‍💻 Languages
+- Python  
+- JavaScript  
+- HTML5  
+- CSS3  
+
+### ⚙️ Frameworks & Libraries
+- React  
+- Flask  
+
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
+
+### 🔧 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Anaconda  
+- Postman  
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanmai-sree-macharla-0a3191353)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/thanmai09)
+## 📌 What I’m Working On
+
+- 🚧 Full-stack web applications  
+- 📊 Data-driven & backend-focused projects  
+- 🧩 APIs, authentication & database design  
+- 🌐 Clean UI + scalable backend systems  
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanmai09&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai09&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thanmai-sree-macharla-0a3191353" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/thanmai09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>"Consistency beats talent when talent doesn’t work consistently."</i>
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
