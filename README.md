@@ -56,12 +56,9 @@ I believe in **learning by building**, not just tutorials.
 
 ## 📊 GitHub Insights
 
-## 📊 GitHub Insights
-
-![Thanmai GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanmai09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
+![Followers](https://img.shields.io/github/followers/thanmai09?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/thanmai09?style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-size/thanmai09?style=for-the-badge)
 
 
 ---
