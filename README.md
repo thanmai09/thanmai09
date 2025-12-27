@@ -56,10 +56,12 @@ I believe in **learning by building**, not just tutorials.
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanmai09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="420"/>
-</p>
+## 📊 GitHub Insights
+
+![Thanmai GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanmai09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
 
 
 ---
