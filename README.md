@@ -1,79 +1,85 @@
-<h1 align="center">Hey 👋, I'm Thanmai Sree Macharla</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | Tech Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Thanmai Sree</h1>
+<h3 align="center">🚀 Passionate Developer | Tech Explorer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Learning+by+Doing;Full+Stack+%7C+Backend+%7C+Databases;Turning+Ideas+into+Code" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a **driven and curious developer** who loves building **real-world, problem-solving applications**.  
-I believe in **learning by building**, not just tutorials.
-
-- 💻 Focused on **Full-Stack Development**
-- 🧠 Strong foundation in **Python & Backend logic**
-- 🌱 Currently mastering the **MERN Stack**
-- 🏗️ Enjoy building **production-style projects**
-- 🤝 Open to **collaborations, hackathons & internships**
-- 📬 Reach me at: **thanmaisreemacharla@gmail.com**
+- 🎓 Computer Science Enthusiast with strong interest in **Backend Development & Databases**
+- 💡 Currently building **EduTrack – Attendance Management System (Flask + React)**
+- 🌱 Exploring **NoSQL Databases, System Design & Scalable Applications**
+- ⚡ Love solving problems & simplifying complex concepts
+- 🎯 Goal: Become a **skilled full-stack engineer with strong system design expertise**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
-- Python  
-- JavaScript  
-- HTML5  
-- CSS3  
+### 🚀 Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### ⚙️ Frameworks & Libraries
-- React  
-- Flask  
+### ⚙️ Frameworks & Tools
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
-### 🗄️ Databases
-- MySQL  
-- MongoDB  
-
-### 🔧 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Anaconda  
-- Google Colab
+### 🧩 Concepts
+- System Design Basics
+- NoSQL Databases (Key-Value, Graph, Column)
+- API Development
+- Data Structures & Algorithms
 
 ---
 
-## 📌 What I’m Working On
+## 🚀 Featured Project
 
-- 🚧 Full-stack web applications  
-- 📊 Data-driven & backend-focused projects  
-- 🧩 APIs, authentication & database design  
-- 🌐 Clean UI + scalable backend systems  
+### 📌 EduTrack – Attendance Management System
+> A full-stack web app to manage and track student attendance efficiently
+
+- 🔐 Authentication System
+- 📊 Interactive Dashboard
+- ⚡ Flask Backend + React Frontend
+- 💾 Database Integration
+
+👉 *More features coming soon...*
 
 ---
 
-
----
-
-## 🌐 Let’s Connect
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thanmai-sree-macharla-0a3191353" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/thanmai09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center">
-  💡 <i>"Consistency beats talent when talent doesn’t work consistently."</i>
-</p>
+## 🧠 Currently Learning
 
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+- 🔹 Advanced Backend Development
+- 🔹 NoSQL Deep Dive (Neo4j, HBase, Riak)
+- 🔹 Scalable System Design
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/thanmai-sree-macharla
+- 📫 Reach me for collaboration, ideas & tech discussions!
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning complex tech concepts into **simple, structured notes** 📚
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
