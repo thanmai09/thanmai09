@@ -75,6 +75,5 @@ A full-stack web application to manage student attendance efficiently
 
 ---
 
----
 
 ⭐ *“Code. Learn. Build. Repeat.”*
