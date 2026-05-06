@@ -16,8 +16,6 @@ Looking to apply skills in real-world projects and grow into a **high-impact sof
 
 ---
 
-## 🛠️ Tech Stack
-
 ### 💻 Programming
 `Python` `JavaScript` `SQL`
 
@@ -34,23 +32,14 @@ Looking to apply skills in real-world projects and grow into a **high-impact sof
 
 ## 🚀 Projects
 
-### 📊 EduTrack – Attendance Management System
+### 📊 Voice based farming assistent - using Hindi, Mithili, Bojpuri.
 A full-stack web application to manage student attendance efficiently  
 
-- 🔐 Authentication system  
-- 📊 Dashboard & analytics  
+- 🗣 Voice Assistent  
+- 📊 Weather APIs
 - ⚡ Flask backend + React frontend  
 - 💾 Database integration  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Streak Stats (DO NOT BREAK 😤)
 
