@@ -1,18 +1,5 @@
-<h1 align="center">
-
-████████╗███████╗ ██████╗██╗  ██╗██╗███████╗
-╚══██╔══╝██╔════╝██╔════╝██║  ██║██║██╔════╝
-   ██║   █████╗  ██║     ███████║██║█████╗  
-   ██║   ██╔══╝  ██║     ██╔══██║██║██╔══╝  
-   ██║   ███████╗╚██████╗██║  ██║██║███████╗
-   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚══════╝
-
-〔 T E C H I E 〕
-</h1>
-
-<p align="center">
-🚀 Backend Developer | 🧠 Problem Solver | ⚡ Tech Explorer
-</p>
+<h1 align="center">Hi 👋, I'm Thanmai Sree Macharla</h1>
+<h3 align="center">🚀 Cloud Engineer | 🧠 Problem Solver | ⚡ Tech Explorer</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/thanmai-sree-macharla">LinkedIn</a> •
@@ -24,23 +11,12 @@
 ---
 
 ## 🎯 Objective
-Computer Science student passionate about building **scalable backend systems and full-stack applications**, with a strong focus on **databases, APIs, and system design**.  
+Computer Science student passionate about building **scalable distributed systems and full-stack applications**, with a strong focus on **databases, APIs, and system design**.  
 Looking to apply skills in real-world projects and grow into a **high-impact software engineer**.
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year |
-|------|------------|------|
-| 🎓 B.Tech — Computer Science | Your College | 2024 – Present |
-
-**Relevant Coursework:**  
-Data Structures · Python · Databases · Web Development  
-
----
-
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### 💻 Programming
 `Python` `JavaScript` `SQL`
@@ -56,16 +32,6 @@ Data Structures · Python · Databases · Web Development
 
 ---
 
-## 💼 Experience
-
-### 💻 Developer & Builder (Ongoing)
-- Building real-world full-stack applications  
-- Designing backend systems with Flask  
-- Exploring database architectures & scalable solutions  
-- Creating structured technical notes for deep understanding  
-
----
-
 ## 🚀 Projects
 
 ### 📊 EduTrack – Attendance Management System
@@ -75,13 +41,6 @@ A full-stack web application to manage student attendance efficiently
 - 📊 Dashboard & analytics  
 - ⚡ Flask backend + React frontend  
 - 💾 Database integration  
-
----
-
-## 🏆 Certifications
-
-- 🐍 Python Programming  
-- 💻 Database & Backend Fundamentals *(add yours here)*  
 
 ---
 
@@ -115,10 +74,6 @@ A full-stack web application to manage student attendance efficiently
 - 📫 Open to collaborations & tech discussions  
 
 ---
-
-## ⚡ Fun Fact
-
-> I turn complex concepts into **clean, structured notes** 📚✨  
 
 ---
 
