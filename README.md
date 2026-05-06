@@ -1,54 +1,87 @@
-<h1 align="center">Hi 👋, I'm Thanmai Sree</h1>
-<h3 align="center">🚀 Passionate Developer | Tech Explorer | Problem Solver</h3>
+<h1 align="center">
+
+████████╗███████╗ ██████╗██╗  ██╗██╗███████╗
+╚══██╔══╝██╔════╝██╔════╝██║  ██║██║██╔════╝
+   ██║   █████╗  ██║     ███████║██║█████╗  
+   ██║   ██╔══╝  ██║     ██╔══██║██║██╔══╝  
+   ██║   ███████╗╚██████╗██║  ██║██║███████╗
+   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚══════╝
+
+〔 T E C H I E 〕
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+🚀 Backend Developer | 🧠 Problem Solver | ⚡ Tech Explorer
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/thanmai-sree-macharla">LinkedIn</a> •
+<a href="https://github.com/yourusername">GitHub</a> •
+<a href="#">Portfolio</a> •
+<a href="mailto:yourmail@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Computer Science Enthusiast with strong interest in **Backend Development & Databases**
-- 💡 Currently building **EduTrack – Attendance Management System (Flask + React)**
-- 🌱 Exploring **NoSQL Databases, System Design & Scalable Applications**
-- ⚡ Love solving problems & simplifying complex concepts
-- 🎯 Goal: Become a **skilled full-stack engineer with strong system design expertise**
+## 🎯 Objective
+Computer Science student passionate about building **scalable backend systems and full-stack applications**, with a strong focus on **databases, APIs, and system design**.  
+Looking to apply skills in real-world projects and grow into a **high-impact software engineer**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-### 🚀 Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+| Degree | Institution | Year |
+|------|------------|------|
+| 🎓 B.Tech — Computer Science | Your College | 2024 – Present |
+
+**Relevant Coursework:**  
+Data Structures · Python · Databases · Web Development  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+`Python` `JavaScript` `SQL`
 
 ### ⚙️ Frameworks & Tools
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+`Flask` `React` `Git` `MongoDB`
 
-### 🧩 Concepts
-- System Design Basics
-- NoSQL Databases (Key-Value, Graph, Column)
-- API Development
-- Data Structures & Algorithms
+### 🧠 Core Concepts
+- Backend Development  
+- REST APIs  
+- NoSQL Databases (Key-Value, Graph, Column)  
+- System Design Basics  
 
 ---
 
-## 🚀 Featured Project
+## 💼 Experience
 
-### 📌 EduTrack – Attendance Management System
-> A full-stack web app to manage and track student attendance efficiently
+### 💻 Developer & Builder (Ongoing)
+- Building real-world full-stack applications  
+- Designing backend systems with Flask  
+- Exploring database architectures & scalable solutions  
+- Creating structured technical notes for deep understanding  
 
-- 🔐 Authentication System
-- 📊 Interactive Dashboard
-- ⚡ Flask Backend + React Frontend
-- 💾 Database Integration
+---
 
-👉 *More features coming soon...*
+## 🚀 Projects
+
+### 📊 EduTrack – Attendance Management System
+A full-stack web application to manage student attendance efficiently  
+
+- 🔐 Authentication system  
+- 📊 Dashboard & analytics  
+- ⚡ Flask backend + React frontend  
+- 💾 Database integration  
+
+---
+
+## 🏆 Certifications
+
+- 🐍 Python Programming  
+- 💻 Database & Backend Fundamentals *(add yours here)*  
 
 ---
 
@@ -56,6 +89,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats (DO NOT BREAK 😤)
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
 </p>
 
@@ -63,23 +103,23 @@
 
 ## 🧠 Currently Learning
 
-- 🔹 Advanced Backend Development
-- 🔹 NoSQL Deep Dive (Neo4j, HBase, Riak)
-- 🔹 Scalable System Design
+- Advanced Backend Development  
+- NoSQL Deep Dive (Neo4j, HBase, Riak)  
+- Scalable System Design  
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/thanmai-sree-macharla
-- 📫 Reach me for collaboration, ideas & tech discussions!
+- 💼 LinkedIn: https://www.linkedin.com/in/thanmai-sree-macharla  
+- 📫 Open to collaborations & tech discussions  
 
 ---
 
 ## ⚡ Fun Fact
 
-> I enjoy turning complex tech concepts into **simple, structured notes** 📚
+> I turn complex concepts into **clean, structured notes** 📚✨  
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *“Code. Learn. Build. Repeat.”*
