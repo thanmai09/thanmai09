@@ -75,18 +75,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -101,11 +89,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanmai-sree-macharla)
 
-[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)](https://github.com/thanmai09)
 
-[![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail)](mailto:thanmaisreemacharla@gmail.com)
 
 </div>
 
