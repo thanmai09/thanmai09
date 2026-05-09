@@ -89,11 +89,21 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanmai-sree-macharla)
+<a href="https://www.linkedin.com/in/thanmai-sree-macharla" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Thanmai%20Sree%20Macharla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)](https://github.com/thanmai09)
+<a href="https://github.com/thanmai09" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-thanmai09-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail)](mailto:thanmaisreemacharla@gmail.com)
+<a href="mailto:thanmaisreemacharla@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Thanmai%20Sree-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=thanmai09&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
 </div>
 
