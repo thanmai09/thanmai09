@@ -89,27 +89,15 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/thanmai-sree-macharla" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Thanmai%20Sree%20Macharla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/thanmai09" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-thanmai09-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:thanmaisreemacharla@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Thanmai%20Sree-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/thanmai-sree-macharla/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Thanmai%20Sree%20Macharla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=thanmai09&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Open+to+Collaborations;AI+%7C+Software+Engineering+%7C+Cloud;Building+Scalable+Systems"/>
 
 </div>
-
----
-
-<div align="center">
 
 ### 💭 "Building intelligent systems with scalable engineering."
 
